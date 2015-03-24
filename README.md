@@ -3,8 +3,5 @@
 
 KT's first repository for Foundations Class
 
-### Instructors:
 
-* Joshua
-* Jordan
  
